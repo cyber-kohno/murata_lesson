@@ -1,9 +1,12 @@
 import { VFC } from "react";
+import './style.css'
 
 const Sample1: VFC = () => {
 
     return (
-        <p>Hello react!</p>
+        <div className="hello">
+            <p>Hello react!</p>
+        </div>
     );
 }
 
