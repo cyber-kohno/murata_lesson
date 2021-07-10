@@ -1,10 +1,10 @@
 
-import Sample1 from 'app/sample/sample1/Sample1';
+import Sample3 from 'app/sample/sample3/Sample3';
 import { VFC } from 'react';
 
 const App: VFC = () => {
   return (
-    <Sample1 />
+    <Sample3 />
   )
 }
 
